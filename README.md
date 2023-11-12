@@ -1,1 +1,1 @@
-# NodejsChatApp
+# Node-js-QR-code-Generator
